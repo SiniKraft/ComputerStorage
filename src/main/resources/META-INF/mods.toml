@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="CC BY-NC-SA"
+
+[[mods]]
+modId="cmpstore"
+version="1.0"
+displayName="Computer Storage"
+credits="Mod made by SiniKraft ! See license."
+displayURL="https://github.com/SiniKraft/ComputerStorage"
+authors="SiniKraft"
+description='''
+This mod adds computer which can store lots of items. You can also treansfer them with internet !
+'''
+
+[[dependencies.cmpstore]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
